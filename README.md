@@ -7,4 +7,4 @@ An endless-runner built with the **Unity Game Development Engine** where a playe
 - Score tracking system at the top of the screen
 
 ### Demo:
-<iframe src="https://giphy.com/embed/gfB3bK5VoYW7vpQlbf" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gfB3bK5VoYW7vpQlbf">via GIPHY</a></p>
+![Cuber]("https://giphy.com/embed/gfB3bK5VoYW7vpQlbf")
