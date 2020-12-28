@@ -10,3 +10,7 @@ An endless-runner built with the **Unity Game Development Engine** where a playe
 ### Demo:
 ![Demo](https://user-images.githubusercontent.com/66835262/88844027-0796e400-d1b0-11ea-9aa3-3773f635587c.gif)
 
+### Libraries and Frameworks Used:
+* **Unity Game Development Engine:** https://unity.com/
+
+
